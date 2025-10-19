@@ -1,0 +1,5 @@
+{
+  "user": "USUARIO",
+  "password": "SENHA",
+  "dsn": "HOST:PORT/SERVICE"
+}
