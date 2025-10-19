@@ -38,8 +38,7 @@
 Entrada por mês: `ano_mes`, `estoque_inicial`, `producao`, `vendas_qtd`, `faturamento`, `custo_unitario`, `custo_medio_anterior`, `despesas` (opcional).  
 Cálculos: `custo_medio`, `estoque_final`, `cmv`, `margem_bruta`, `preco_medio`, `saldo_final` (caixa simples).
 
-## Dica de avaliação (README/prints)
-- Print do menu, cadastro de um mês e listagem.
-- Explique no README onde cada capítulo foi atendido (já listado acima).
-
-Boa entrega! 🚜💻
+Images:
+pexels-karolina-grabowska-4397820.jpg
+sebastien-lavalaye-qJQRJAnFuTI-unsplash.jpg
+marketingdigital_marketingsupervisor_seo_copywriting_ads_googleads_facebookads.jpg
